@@ -173,3 +173,10 @@ MIT © 2025
 - Stability AI
 - Midjourney community tools
 - Hackathon organisers
+
+
+## Next Steps Implemented
+- Added OpenAI hooks (placeholders) in backend/generator.py
+- Added a minimal React frontend scaffold under frontend/react-app
+
+See backend/README.md for instructions to wire OpenAI keys and enable real image/caption generation.
